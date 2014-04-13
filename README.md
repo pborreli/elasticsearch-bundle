@@ -51,7 +51,7 @@ config.yml
 
 ## Defaults
 
-@see [ElasticSearch PHP API -full list of configrations-](http://www.elasticsearch.org/guide/en/elasticsearch/client/php-api/current/_configuration.html#_full_list_of_configurations)
+@see [ElasticSearch PHP API -full list of configurations-](http://www.elasticsearch.org/guide/en/elasticsearch/client/php-api/current/_configuration.html#_full_list_of_configurations)
 
 # Usage
 
